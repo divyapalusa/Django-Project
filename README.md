@@ -1,4 +1,5 @@
-Django-Project (AWS)
+Django-Project (AWS):
+----------------------
 
 Django Tutorials application and deploy it to your AWS EC2 instance, so that it is accessible over the internet and not just on your own computer.
  
